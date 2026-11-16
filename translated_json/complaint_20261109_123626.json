@@ -1,0 +1,16 @@
+{
+    "translated_english_text": "Hello, I am Ayan Bhattacharya. I am a resident of Purba Bardhaman district, my state is West Bengal, and I reside in Bardhaman town. My area's PIN code is 713101. My police station is Bardhaman Sadar. I have a bank account with State Bank of India. My bank account number is SBIN010101. Last night, 65,000 disappeared from this bank account of mine, for which I cannot find any record or explanation. I want to lodge a complaint with the police. Please accept this complaint in writing and take appropriate action to help me.",
+    "detected_language": "Bengali",
+    "extracted_entities": {
+        "name": "Ayan Bhattacharya",
+        "phone_number": null,
+        "bank_account_number": "SBIN010101",
+        "bank_name": "State Bank of India",
+        "district": "Purba Bardhaman",
+        "police_station": "Bardhaman Sadar",
+        "pincode": "713101",
+        "state": "West Bengal",
+        "fraud_amount": "65000",
+        "fraud_type": "Unauthorized bank transaction"
+    }
+}

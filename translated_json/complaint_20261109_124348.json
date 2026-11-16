@@ -1,0 +1,16 @@
+{
+    "translated_english_text": "Greetings, my name is Anik Dasgupta. I am a resident of Bardhaman city in Purba Bardhaman district of West Bengal state. My pincode is 713102 and my phone number is 7679951043. Yesterday I saw that a fraud of 25,000 occurred from my SBI account.",
+    "detected_language": "auto-chunked",
+    "extracted_entities": {
+        "name": "Anik Dasgupta",
+        "phone_number": "7679951043",
+        "bank_account_number": null,
+        "bank_name": "SBI",
+        "district": "Purba Bardhaman",
+        "police_station": null,
+        "pincode": "713102",
+        "state": "West Bengal",
+        "fraud_amount": "25,000",
+        "fraud_type": "Unauthorized bank transaction"
+    }
+}

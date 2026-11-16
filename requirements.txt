@@ -1,0 +1,9 @@
+transformers
+sentencepiece
+sounddevice
+soundfile
+scipy
+keyboard
+google-generativeai
+python-dotenv
+numpy

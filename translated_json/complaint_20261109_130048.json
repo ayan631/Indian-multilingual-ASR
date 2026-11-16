@@ -1,0 +1,16 @@
+{
+    "translated_english_text": "Hello, my name is Ayan Bhattacharya. I am a resident of Purba Bardhaman district in the state of West Bengal and I live in Bardhaman city. My area pincode is 713101 and the police station is Bardhaman Sadar. I want to report an incident: while I was traveling on a moving bus, someone touched my genitals. I want to register a complaint with the police against this. Please accept my complaint and help me by taking appropriate action.",
+    "detected_language": "auto-chunked",
+    "extracted_entities": {
+        "name": "Ayan Bhattacharya",
+        "phone_number": null,
+        "bank_account_number": null,
+        "bank_name": null,
+        "district": "Purba Bardhaman",
+        "police_station": "Bardhaman Sadar",
+        "pincode": "713101",
+        "state": "West Bengal",
+        "fraud_amount": null,
+        "fraud_type": null
+    }
+}
